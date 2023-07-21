@@ -131,7 +131,7 @@ Training the speaker identification model involves providing labeled audio sampl
 
 ### Speaker Identification Inference
 
-After the model is trained, it can be used for speaker identification inference on new audio samples. During inference, the model takes the extracted features from the input audio and predicts the identity of the speaker. The model outputs the most likely speaker label or provides a probability distribution over potential speakers.
+After the model is trained, it can be used for speaker identification inference on new audio samples. During inference, the model takes the extracted features from the input audio and predicts the identity of the speaker. The model outputs the most likely speaker label or provides a probability distribution over potential speakers .
 
 ### Integration with User Interface
 
